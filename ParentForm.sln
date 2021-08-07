@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParentForm", "ParentForm\ParentForm.csproj", "{6F70F32A-C0A5-4EB1-A128-F2E5CB2D1F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F70F32A-C0A5-4EB1-A128-F2E5CB2D1F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F70F32A-C0A5-4EB1-A128-F2E5CB2D1F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F70F32A-C0A5-4EB1-A128-F2E5CB2D1F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F70F32A-C0A5-4EB1-A128-F2E5CB2D1F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83C24B8-4143-44B3-AAE8-00F460251D92}
+	EndGlobalSection
+EndGlobal
